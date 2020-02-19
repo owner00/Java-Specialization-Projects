@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=
+comment1.target=void\ testVigenere()
+comment2.params=
+comment2.target=void\ testVigenereBreakerTryKeyLength()
+comment3.params=
+comment3.target=void\ testVigenereBreakerSliceString()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Write\ a\ description\ of\ Part2\ here.\n\ \n\ @author\ (Aja\ Ukpa\ Nnaemeka)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gene\ startCodon\ endCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ findSimpleGene()
+comment3.params=gene
+comment3.target=java.lang.String\ getStartCodon(java.lang.String)
+comment4.params=gene
+comment4.target=java.lang.String\ getEndCodon(java.lang.String)
+numComments=5

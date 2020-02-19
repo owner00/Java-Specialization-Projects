@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DirectorFilter
+comment0.text=\n\ Write\ a\ description\ of\ DirectorFilter\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=parameter
+comment1.target=DirectorFilter(java.lang.String)
+comment2.params=movieID
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3

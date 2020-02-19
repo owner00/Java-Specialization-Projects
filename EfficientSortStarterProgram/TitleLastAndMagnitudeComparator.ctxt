@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TitleLastAndMagnitudeComparator
+comment1.params=qe1\ qe2
+comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
+comment2.params=str
+comment2.target=java.lang.String\ lastWord(java.lang.String)
+numComments=3

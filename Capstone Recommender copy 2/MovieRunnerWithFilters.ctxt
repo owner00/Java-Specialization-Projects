@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MovieRunnerWithFilters
+comment0.text=\n\ Write\ a\ description\ of\ MovieRunnerWithFilters\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ printAverageRatingsByDirectorsAndMinutes()
+comment2.params=
+comment2.target=void\ printAverageRatingsByYearAfterAndGenre()
+comment3.params=
+comment3.target=void\ printAverageRatingsByDirectors()
+comment4.params=
+comment4.target=void\ printAverageRatingsByMinutes()
+comment5.params=
+comment5.target=void\ printAverageRatingsByGenre()
+comment6.params=
+comment6.target=void\ printAverageRatingsByYear()
+comment7.params=
+comment7.target=void\ printAverageRatings()
+numComments=8
